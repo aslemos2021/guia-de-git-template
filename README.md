@@ -2,10 +2,11 @@
 
 Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
-## Dupla
+## Dupla (ou trio)
 
 - Nome Sobrenome (usuario-do-github)
 - Nome Sobrenome (usuario-do-github)
+<!-- - Nome Sobrenome (usuario-do-github) -->
 
 ## Como contribuir
 
